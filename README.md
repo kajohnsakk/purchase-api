@@ -20,6 +20,12 @@ npm run start:watch
 ```
 Server will running with port 3000
 
+** I made json file for example db
+
+```
+src/db/purchase.json
+```
+
 ## API
 
 1. Get purchase transactions
